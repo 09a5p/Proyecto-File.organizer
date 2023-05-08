@@ -1,0 +1,10 @@
+import os
+import pathlib
+
+listaDeDirectorios={
+    "Documentos de archivo":[".doc", ".txt", ".docx", ".xlsx", ".ppt", "pptx"],
+    "Imagenes":[".jpg", ".png", ".jpeg"],
+    "Gif":[".gif"],
+    "Videos":[".mp4", ".wmv", ".mov", ".mpg", "mpeg", ".mkv"],
+    "musica":[".mp3", ".msv", ".wav", ".wma"],
+    "Documentos PDF":[".pdf"]
